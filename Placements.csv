@@ -1,0 +1,825 @@
+Course,Discipline,CGPA,Company,Profile,CTC,Type
+Integrated M.Tech,Applied Geology,8.6,Axtria,NA,14.75,On-Campus
+Integrated M.Tech,Applied Geology,7.31,Merilytics,Business Analyst,9.5,On-Campus
+Integrated M.Tech,Applied Geology,8.53,Merilytics,Analyst,10.3,On-Campus
+Integrated M.Tech,Applied Geology,7.52,Quantiphi,Business Analyst,8.5,On-Campus
+Integrated M.Tech,Applied Geology,7.92,Sprinklr,Business Analyst,18.0,On-Campus
+Integrated M.Tech,Applied Geology,7.42,ZS Associates,Analyst,12.85,PPO
+Integrated M.Tech,Applied Geophysics,7.88,Axtria,NA,14.75,On-Campus
+Integrated M.Tech,Applied Geophysics,8.45,ONGC,Geophysicist (Surface),25.0,On-Campus
+Integrated M.Tech,Applied Geophysics,8.99,ONGC,Geophysicist (Wells),25.0,On-Campus
+Integrated M.Tech,Applied Geophysics,8.31,Tiger analytics,NA,10.0,On-Campus
+Integrated M.Tech,Applied Geophysics,8.02,Truminds,NA,13.5,On-Campus
+Integrated M.Tech,Applied Geophysics,7.44,ZS Associates,Analyst,18.25,On-Campus
+B.Tech,Chemical Engineering,7.27,Axis Bank,Analyst,14.0,On-Campus
+B.Tech,Chemical Engineering,8.37,Axis Bank,Analyst,14.0,On-Campus
+B.Tech,Chemical Engineering,8.41,Axis Bank,Analyst,14.0,On-Campus
+B.Tech,Chemical Engineering,7.38,Axxela Advisory,NA,11.5,On-Campus
+B.Tech,Chemical Engineering,7.09,Cogoport,NA,14.0,On-Campus
+B.Tech,Chemical Engineering,7.89,Cogoport,NA,14.0,On-Campus
+B.Tech,Chemical Engineering,7.34,Cubation Consulting,NA,7.66,On-Campus
+B.Tech,Chemical Engineering,8.61,Cubation Consulting,NA,7.66,On-Campus
+B.Tech,Chemical Engineering,6.79,Holcim Group_ACC cement,NA,10.0,On-Campus
+B.Tech,Chemical Engineering,7.62,ICICI Bank,NA,16.0,On-Campus
+B.Tech,Chemical Engineering,7.81,Innovaccer,APM,12.0,On-Campus
+B.Tech,Chemical Engineering,8.48,Innovaccer,APM,12.0,On-Campus
+B.Tech,Chemical Engineering,6.5,Medibuddy,Software Engineer,15.0,On-Campus
+B.Tech,Chemical Engineering,7.52,Merilytics,Business Analyst,9.5,On-Campus
+B.Tech,Chemical Engineering,8.13,Merilytics,Senior Technical Associate,9.5,On-Campus
+B.Tech,Chemical Engineering,6.64,PhonePe,NA,30.5,On-Campus
+B.Tech,Chemical Engineering,8.41,PhonePe,NA,30.5,On-Campus
+B.Tech,Chemical Engineering,7.79,Reliance Industries (E&P),Graduate Engineer Trainee,9.0,On-Campus
+B.Tech,Chemical Engineering,8.29,Reliance Industries (E&P),Graduate Engineer Trainee,9.0,On-Campus
+B.Tech,Chemical Engineering,6.14,Reliance Jio (TS2),NA,15.0,On-Campus
+B.Tech,Chemical Engineering,8.7,Sprinklr,Business Analyst,18.0,On-Campus
+B.Tech,Chemical Engineering,9.1,Tata Steel,Management Trainee Technical,10.52,PPO
+B.Tech,Chemical Engineering,8.05,Testbook,Software Engineer,14.0,On-Campus
+B.Tech,Chemical Engineering,7.89,Udaan,NA,40.0,On-Campus
+B.Tech,Chemical Engineering,6.94,Vedanta_ESL Ltd.,Graduate Engineer Trainee,NA,On-Campus
+B.Tech,Chemical Engineering,7.58,Vedanta_ESL Ltd.,Graduate Engineer Trainee,NA,On-Campus
+B.Tech,Chemical Engineering,7.09,ZS Associates,NA,18.25,On-Campus
+B.Tech,Civil Engineering,7.82,Accenture Japan,NA,49.13,On-Campus
+B.Tech,Civil Engineering,6.61,Beehyv,Software Engineer,7.0,On-Campus
+B.Tech,Civil Engineering,7.31,Capgemini,Business Analyst,10.0,On-Campus
+B.Tech,Civil Engineering,7.59,Cogoport,NA,14.0,On-Campus
+B.Tech,Civil Engineering,7.31,Cubation Consulting,NA,7.66,On-Campus
+B.Tech,Civil Engineering,8.0,Cubation Consulting,NA,7.66,On-Campus
+B.Tech,Civil Engineering,6.43,Future First,NA,12.4,On-Campus
+B.Tech,Civil Engineering,6.95,Future First,NA,12.4,On-Campus
+B.Tech,Civil Engineering,8.17,Google India,NA,30.36,On-Campus
+B.Tech,Civil Engineering,8.07,Holcim Group_ACC cement,NA,10.0,On-Campus
+B.Tech,Civil Engineering,6.15,ICICI Bank,NA,16.0,On-Campus
+B.Tech,Civil Engineering,6.69,idrive,NA,15.0,On-Campus
+B.Tech,Civil Engineering,8.12,Innovaccer,APM,12.0,On-Campus
+B.Tech,Civil Engineering,7.19,L&T Construction,NA,6.0,On-Campus
+B.Tech,Civil Engineering,7.35,L&T Construction,NA,6.0,On-Campus
+B.Tech,Civil Engineering,7.76,L&T Construction,NA,6.0,On-Campus
+B.Tech,Civil Engineering,7.79,L&T Construction,NA,6.0,On-Campus
+B.Tech,Civil Engineering,8.09,L&T Construction,NA,6.0,On-Campus
+B.Tech,Civil Engineering,8.35,L&T Construction,NA,6.0,On-Campus
+B.Tech,Civil Engineering,8.59,L&T Construction,NA,6.0,On-Campus
+B.Tech,Civil Engineering,8.75,L&T Construction,NA,6.0,On-Campus
+B.Tech,Civil Engineering,8.91,L&T Construction,NA,6.0,On-Campus
+B.Tech,Civil Engineering,5.91,Nineleaps,Software Engineer,12.0,On-Campus
+B.Tech,Civil Engineering,8.01,Nineleaps,Software Engineer,12.0,On-Campus
+B.Tech,Civil Engineering,7.6,Quantiphi,NA,8.5,On-Campus
+B.Tech,Civil Engineering,7.64,Reliance Jio (TS2),NA,15.0,On-Campus
+B.Tech,Civil Engineering,7.46,Scheneider Electic,NA,15.0,On-Campus
+B.Tech,Civil Engineering,7.84,Sprinklr,Business Analyst,18.0,On-Campus
+B.Tech,Civil Engineering,7.18,Talent Recruit,Software Engineer,10.0,On-Campus
+B.Tech,Computer Science and Engineering,7.68,Accenture Japan,NA,49.13,On-Campus
+B.Tech,Computer Science and Engineering,8.5,Adobe,Software Engineer,14.85,PPO
+B.Tech,Computer Science and Engineering,7.72,Amazon India,NA,29.91,PPO
+B.Tech,Computer Science and Engineering,8.06,Amazon India,NA,29.91,PPO
+Dual Degree,Computer Science and Engineering,8.74,Amazon India,NA,44.1,On-Campus
+B.Tech,Computer Science and Engineering,8.96,Amazon India,NA,29.91,PPO
+B.Tech,Computer Science and Engineering,9.15,Amazon India,NA,29.91,PPO
+B.Tech,Computer Science and Engineering,8.14,Amazon India(wow),Software Engineer,7.5,PPO
+B.Tech,Computer Science and Engineering,6.04,Amdocs,NA,10.0,On-Campus
+Dual Degree,Computer Science and Engineering,6.07,Amdocs,NA,10.0,On-Campus
+B.Tech,Computer Science and Engineering,6.4,Amdocs,NA,10.0,On-Campus
+B.Tech,Computer Science and Engineering,6.62,Amdocs,NA,10.0,On-Campus
+B.Tech,Computer Science and Engineering,8.01,Arista Networks,NA,7.0,PPO
+B.Tech,Computer Science and Engineering,8.18,Arista Networks,NA,7.0,PPO
+B.Tech,Computer Science and Engineering,8.36,Arista Networks,NA,7.0,PPO
+B.Tech,Computer Science and Engineering,8.6,Arista Networks,NA,7.0,PPO
+B.Tech,Computer Science and Engineering,9.09,Arista Networks,NA,23.55,On-Campus
+B.Tech,Computer Science and Engineering,9.16,Arista Networks,NA,23.55,On-Campus
+B.Tech,Computer Science and Engineering,9.27,Arista Networks,NA,7.0,PPO
+B.Tech,Computer Science and Engineering,8.16,Atlassian,NA,26.57,On-Campus
+B.Tech,Computer Science and Engineering,8.56,Atlassian,NA,26.57,On-Campus
+B.Tech,Computer Science and Engineering,6.89,Barclays,NA,16.2,On-Campus
+B.Tech,Computer Science and Engineering,7.42,Barclays,Business Analyst,18.7,PPO
+Dual Degree,Computer Science and Engineering,6.88,Cashfree,NA,19.0,On-Campus
+B.Tech,Computer Science and Engineering,8.25,Ceromorphic,NA,30.0,On-Campus
+B.Tech,Computer Science and Engineering,6.1,Cognizent,Other,10.0,On-Campus
+B.Tech,Computer Science and Engineering,8.23,Cogoport,NA,14.0,On-Campus
+B.Tech,Computer Science and Engineering,6.08,Decimal Technologies,NA,12.0,On-Campus
+B.Tech,Computer Science and Engineering,8.44,Expedia,NA,12.91,Off campus
+B.Tech,Computer Science and Engineering,6.11,Fiserv,NA,15.0,On-Campus
+B.Tech,Computer Science and Engineering,7.26,Flipkart,NA,28.58,On-Campus
+B.Tech,Computer Science and Engineering,7.46,Flipkart,NA,28.58,On-Campus
+B.Tech,Computer Science and Engineering,7.61,Flipkart,Software Engineer,26.58,PPO
+Dual Degree,Computer Science and Engineering,8.0,Flipkart,NA,28.58,On-Campus
+B.Tech,Computer Science and Engineering,8.36,Flipkart,Software Engineer,26.58,PPO
+B.Tech,Computer Science and Engineering,8.89,Flipkart,NA,28.58,On-Campus
+B.Tech,Computer Science and Engineering,9.31,Flipkart,Software Engineer,26.58,PPO
+B.Tech,Computer Science and Engineering,6.83,Florance Capital,NA,20.0,On-Campus
+B.Tech,Computer Science and Engineering,7.72,Goldman Sachs,Software Engineer,31.5,PPO
+B.Tech,Computer Science and Engineering,7.82,Goldman Sachs,Software Engineer,31.5,PPO
+Dual Degree,Computer Science and Engineering,7.92,Goldman Sachs,NA,23.0,On-Campus
+B.Tech,Computer Science and Engineering,8.24,Goldman Sachs,Software Engineer,31.5,PPO
+B.Tech,Computer Science and Engineering,8.27,Goldman Sachs,NA,23.0,On-Campus
+B.Tech,Computer Science and Engineering,8.46,Goldman Sachs,Software Engineer,31.5,PPO
+B.Tech,Computer Science and Engineering,8.5,Goldman Sachs,NA,23.0,On-Campus
+B.Tech,Computer Science and Engineering,9.07,Goldman Sachs,Software Engineer,31.5,PPO
+B.Tech,Computer Science and Engineering,7.49,Google India,NA,30.36,On-Campus
+Dual Degree,Computer Science and Engineering,8.16,Google India,Software Engineer,30.36,PPO
+B.Tech,Computer Science and Engineering,8.16,Google India,Software Engineer,30.36,PPO
+Dual Degree,Computer Science and Engineering,8.47,Google India,NA,30.36,On-Campus
+B.Tech,Computer Science and Engineering,8.55,Google India,Software Engineer,30.36,PPO
+B.Tech,Computer Science and Engineering,8.59,Google India,Software Engineer,30.36,PPO
+B.Tech,Computer Science and Engineering,8.9,Google India,Software Engineer,30.36,PPO
+B.Tech,Computer Science and Engineering,9.13,Google India,Software Engineer,30.36,PPO
+B.Tech,Computer Science and Engineering,7.48,IBM,NA,15.0,On-Campus
+B.Tech,Computer Science and Engineering,7.45,Indeed,NA,24.65,On-Campus
+B.Tech,Computer Science and Engineering,7.97,Inmobi,NA,31.53,On-Campus
+Dual Degree,Computer Science and Engineering,8.58,Inmobi,NA,31.53,On-Campus
+B.Tech,Computer Science and Engineering,7.96,Innovaccer,APM,12.0,On-Campus
+B.Tech,Computer Science and Engineering,8.2,Instabase,NA,10.0,CDC Assisted Off-Campus
+B.Tech,Computer Science and Engineering,8.11,Intuit,Software Engineer,37.26,Off campus
+Dual Degree,Computer Science and Engineering,7.54,Jaguar Landrover,NA,21.28,On-Campus
+B.Tech,Computer Science and Engineering,7.34,Meesho,NA,37.0,On-Campus
+B.Tech,Computer Science and Engineering,7.98,Meesho,NA,37.0,On-Campus
+B.Tech,Computer Science and Engineering,5.99,Microsoft India,NA,46.08,On-Campus
+B.Tech,Computer Science and Engineering,7.59,Microsoft India,NA,46.08,On-Campus
+B.Tech,Computer Science and Engineering,7.75,Microsoft India,NA,46.08,On-Campus
+B.Tech,Computer Science and Engineering,7.76,Microsoft India,NA,46.08,On-Campus
+B.Tech,Computer Science and Engineering,7.78,Microsoft India,NA,46.08,On-Campus
+B.Tech,Computer Science and Engineering,7.99,Microsoft India,NA,46.08,On-Campus
+B.Tech,Computer Science and Engineering,8.19,Microsoft India,NA,45.03,PPO
+B.Tech,Computer Science and Engineering,8.3,Microsoft India,NA,46.08,On-Campus
+B.Tech,Computer Science and Engineering,8.59,Microsoft India,NA,45.03,PPO
+B.Tech,Computer Science and Engineering,8.71,Microsoft India,NA,46.08,On-Campus
+Dual Degree,Computer Science and Engineering,8.76,Microsoft India,NA,46.08,On-Campus
+Dual Degree,Computer Science and Engineering,8.8,Microsoft India,NA,45.03,PPO
+B.Tech,Computer Science and Engineering,8.86,Microsoft India,NA,45.03,PPO
+B.Tech,Computer Science and Engineering,8.9,Microsoft India,NA,45.03,PPO
+B.Tech,Computer Science and Engineering,9.04,Microsoft India,NA,45.03,PPO
+B.Tech,Computer Science and Engineering,9.19,Microsoft India,NA,45.03,PPO
+B.Tech,Computer Science and Engineering,9.26,Microsoft India,NA,45.03,PPO
+B.Tech,Computer Science and Engineering,6.88,Money Forward,NA,45.08,On-Campus
+B.Tech,Computer Science and Engineering,7.47,Money Forward,NA,45.08,On-Campus
+B.Tech,Computer Science and Engineering,7.12,Morgan Stanley,NA,25.33,On-Campus
+B.Tech,Computer Science and Engineering,7.11,Myntra,NA,30.0,On-Campus
+B.Tech,Computer Science and Engineering,7.23,Myntra,NA,30.0,On-Campus
+B.Tech,Computer Science and Engineering,7.37,Myntra,NA,30.0,On-Campus
+B.Tech,Computer Science and Engineering,7.07,Navi Technology,NA,29.0,On-Campus
+B.Tech,Computer Science and Engineering,7.44,Navi Technology,NA,29.0,On-Campus
+B.Tech,Computer Science and Engineering,7.71,Navi Technology,NA,29.0,On-Campus
+B.Tech,Computer Science and Engineering,8.14,Navi Technology,NA,29.0,On-Campus
+B.Tech,Computer Science and Engineering,8.87,Navi Technology,NA,29.0,On-Campus
+B.Tech,Computer Science and Engineering,6.5,Nineleaps,Software Engineer,12.0,On-Campus
+Dual Degree,Computer Science and Engineering,7.59,Oracle,NA,31.95,On-Campus
+Dual Degree,Computer Science and Engineering,6.03,PWC,NA,11.25,On-Campus
+B.Tech,Computer Science and Engineering,6.02,Reliance Jio (TS1),NA,18.5,On-Campus
+B.Tech,Computer Science and Engineering,6.44,Reliance Jio (TS1),NA,18.5,On-Campus
+B.Tech,Computer Science and Engineering,6.68,Reliance Jio (TS1),NA,18.5,On-Campus
+B.Tech,Computer Science and Engineering,6.73,Reliance Jio (TS1),NA,18.5,On-Campus
+B.Tech,Computer Science and Engineering,7.06,Reliance Jio (TS1),NA,18.5,On-Campus
+Dual Degree,Computer Science and Engineering,7.11,Reliance Jio (TS1),NA,18.5,On-Campus
+B.Tech,Computer Science and Engineering,7.12,Reliance Jio (TS1),NA,18.5,On-Campus
+Dual Degree,Computer Science and Engineering,7.37,Reliance Jio (TS1),NA,18.5,On-Campus
+Dual Degree,Computer Science and Engineering,7.57,Reliance Jio (TS1),NA,18.5,On-Campus
+B.Tech,Computer Science and Engineering,7.72,Reliance Jio (TS1),NA,18.5,On-Campus
+B.Tech,Computer Science and Engineering,8.31,Reliance Jio (TS1),NA,18.5,On-Campus
+B.Tech,Computer Science and Engineering,9.13,Reliance Jio (TS1),NA,18.5,On-Campus
+Dual Degree,Computer Science and Engineering,8.3,Salesforce,NA,35.37,PPO
+B.Tech,Computer Science and Engineering,8.36,Salesforce,NA,35.37,PPO
+B.Tech,Computer Science and Engineering,8.78,Salesforce,NA,35.37,PPO
+B.Tech,Computer Science and Engineering,9.0,Salesforce,NA,35.37,PPO
+B.Tech,Computer Science and Engineering,8.14,"Samsung Research Institute, Bangalore",NA,20.0,On-Campus
+B.Tech,Computer Science and Engineering,8.29,"Samsung Research Institute, Bangalore",Software Engineer,20.0,PPO
+B.Tech,Computer Science and Engineering,8.74,"Samsung Research Institute, Bangalore",NA,40.0,On-Campus
+B.Tech,Computer Science and Engineering,8.92,"Samsung Research Institute, Bangalore",Software Engineer,20.0,PPO
+Dual Degree,Computer Science and Engineering,7.07,"Samsung Research Institute, Noida",R&D Engineer,16.0,On-Campus
+B.Tech,Computer Science and Engineering,8.8,Sandvine,NA,18.45,On-Campus
+B.Tech,Computer Science and Engineering,7.59,Sliceit,NA,23.0,On-Campus
+B.Tech,Computer Science and Engineering,7.63,Sprinklr,NA,18.0,On-Campus
+B.Tech,Computer Science and Engineering,8.42,Sprinklr,Product Engineer,30.0,PPO
+B.Tech,Computer Science and Engineering,8.65,Sprinklr,Product Engineer,30.0,PPO
+B.Tech,Computer Science and Engineering,9.11,Sprinklr,Product Engineer,30.0,PPO
+B.Tech,Computer Science and Engineering,9.65,Sprinklr,Product Engineer,30.0,PPO
+B.Tech,Computer Science and Engineering,7.42,Standard Chartered,NA,18.2,PPO
+B.Tech,Computer Science and Engineering,7.73,Standard Chartered,NA,18.2,PPO
+B.Tech,Computer Science and Engineering,7.96,Standard Chartered,NA,18.2,PPO
+B.Tech,Computer Science and Engineering,5.94,Sterlite Technologies LTD,Graduate Engineer Trainee,16.0,On-Campus
+B.Tech,Computer Science and Engineering,7.07,Sterlite Technologies LTD,Graduate Engineer Trainee,16.0,On-Campus
+B.Tech,Computer Science and Engineering,7.52,Toppr,NA,21.0,On-Campus
+B.Tech,Computer Science and Engineering,8.59,Walmart,Software Engineer,22.62,PPO
+B.Tech,Computer Science and Engineering,8.96,Walmart,NA,29.0,On-Campus
+B.Tech,Computer Science and Engineering,8.98,Walmart,Software Engineer,22.62,PPO
+Dual Degree,Computer Science and Engineering,7.26,Wipro Limited,Engineer,6.5,On-Campus
+B.Tech,Computer Science and Engineering,7.77,Zomato,NA,20.0,On-Campus
+B.Tech,Electrical Engineering,8.53,Addverb,NA,14.33,On-Campus
+B.Tech,Electrical Engineering,8.73,Adobe,Software Engineer,14.85,PPO
+B.Tech,Electrical Engineering,8.04,Amazon India,NA,29.91,PPO
+B.Tech,Electrical Engineering,9.16,Amazon India,NA,44.1,On-Campus
+B.Tech,Electrical Engineering,7.5,American Express,NA,19.19,On-Campus
+B.Tech,Electrical Engineering,8.73,American Express,Graduate Engineer Trainee,17.67,Online Event
+B.Tech,Electrical Engineering,8.58,Atlassian,NA,26.57,On-Campus
+B.Tech,Electrical Engineering,8.81,Atlassian,NA,26.57,On-Campus
+B.Tech,Electrical Engineering,8.98,Bajaj Auto,NA,14.09,On-Campus
+B.Tech,Electrical Engineering,6.23,Beehyv,NA,7.0,On-Campus
+B.Tech,Electrical Engineering,7.41,Capgemini,Business Analyst,10.0,On-Campus
+B.Tech,Electrical Engineering,8.1,Capgemini,Business Analyst,10.0,On-Campus
+B.Tech,Electrical Engineering,7.35,Cogoport,NA,14.0,On-Campus
+B.Tech,Electrical Engineering,6.18,Field Genie Pvt Ltd,Management Trainee,8.0,On-Campus
+B.Tech,Electrical Engineering,7.5,Fiserv,NA,15.0,On-Campus
+B.Tech,Electrical Engineering,7.55,Fiserv,NA,15.0,On-Campus
+B.Tech,Electrical Engineering,7.27,Flipkart,NA,28.58,On-Campus
+B.Tech,Electrical Engineering,8.17,Flipkart,NA,28.58,On-Campus
+B.Tech,Electrical Engineering,6.29,Future First,NA,12.4,On-Campus
+B.Tech,Electrical Engineering,6.04,HCL,Analytics,8.5,On-Campus
+B.Tech,Electrical Engineering,6.3,HCL,Software Engineer,8.5,On-Campus
+B.Tech,Electrical Engineering,6.36,HCL,Analytics,8.5,On-Campus
+B.Tech,Electrical Engineering,6.4,HCL,Software Engineer,8.5,On-Campus
+B.Tech,Electrical Engineering,6.74,HCL,Other,8.5,On-Campus
+B.Tech,Electrical Engineering,7.56,Hitachi Vantara,NA,10.0,On-Campus
+B.Tech,Electrical Engineering,8.1,Hitachi Vantara,NA,10.0,On-Campus
+B.Tech,Electrical Engineering,7.51,ICICI Bank,NA,16.0,On-Campus
+B.Tech,Electrical Engineering,7.77,ICICI Bank,NA,16.0,On-Campus
+B.Tech,Electrical Engineering,8.06,ICICI Bank,NA,16.0,On-Campus
+B.Tech,Electrical Engineering,8.48,ICICI Bank,NA,16.0,On-Campus
+B.Tech,Electrical Engineering,8.59,ICICI Bank,NA,16.0,On-Campus
+B.Tech,Electrical Engineering,8.05,Innovaccer,APM,12.0,On-Campus
+B.Tech,Electrical Engineering,8.14,Innovaccer,APM,12.0,On-Campus
+B.Tech,Electrical Engineering,7.17,Jaguar Landrover,NA,21.28,On-Campus
+B.Tech,Electrical Engineering,9.04,Jaguar Landrover,NA,21.28,On-Campus
+B.Tech,Electrical Engineering,6.45,Medibuddy,Software Engineer,15.0,On-Campus
+B.Tech,Electrical Engineering,8.02,Meesho,NA,37.0,On-Campus
+B.Tech,Electrical Engineering,8.59,Meesho,NA,37.0,On-Campus
+B.Tech,Electrical Engineering,7.51,Merilytics,Business Analyst,9.5,On-Campus
+B.Tech,Electrical Engineering,8.42,Merilytics,Business Analyst,9.5,On-Campus
+B.Tech,Electrical Engineering,6.99,Microsoft India,NA,46.08,On-Campus
+B.Tech,Electrical Engineering,7.96,Microsoft India,NA,46.08,On-Campus
+B.Tech,Electrical Engineering,8.22,Microsoft India,NA,46.08,On-Campus
+B.Tech,Electrical Engineering,8.42,Microsoft India,NA,46.08,On-Campus
+B.Tech,Electrical Engineering,8.67,Microsoft India,NA,46.08,On-Campus
+B.Tech,Electrical Engineering,8.95,Microsoft India,NA,45.03,PPO
+B.Tech,Electrical Engineering,8.03,Money Forward,NA,45.08,On-Campus
+B.Tech,Electrical Engineering,7.62,Morgan Stanley,NA,25.33,On-Campus
+B.Tech,Electrical Engineering,8.04,Myntra,NA,30.0,On-Campus
+B.Tech,Electrical Engineering,8.26,Myntra,NA,30.0,On-Campus
+B.Tech,Electrical Engineering,6.96,Nucleus Software,Software Engineer,10.0,On-Campus
+B.Tech,Electrical Engineering,7.76,Nucleus Software,Software Engineer,10.0,On-Campus
+B.Tech,Electrical Engineering,7.66,Oracle,NA,31.95,On-Campus
+B.Tech,Electrical Engineering,7.61,Paytm,Software Engineer,21.0,On-Campus
+B.Tech,Electrical Engineering,8.24,Paytm,Software Engineer,21.0,On-Campus
+B.Tech,Electrical Engineering,6.29,PWC,NA,10.0,On-Campus
+B.Tech,Electrical Engineering,8.34,PWC,NA,10.0,On-Campus
+B.Tech,Electrical Engineering,6.35,Reliance Jio (TS2),NA,15.0,On-Campus
+B.Tech,Electrical Engineering,6.56,Reliance Jio (TS2),NA,15.0,On-Campus
+B.Tech,Electrical Engineering,7.09,Reliance Jio (TS2),NA,15.0,On-Campus
+B.Tech,Electrical Engineering,7.48,Reliance Jio (TS2),NA,15.0,On-Campus
+B.Tech,Electrical Engineering,8.53,"Samsung Research Institute, Bangalore",Software Engineer,20.0,PPO
+B.Tech,Electrical Engineering,8.58,"Samsung Research Institute, Bangalore",NA,40.0,On-Campus
+B.Tech,Electrical Engineering,7.86,Sandvine,NA,18.45,On-Campus
+B.Tech,Electrical Engineering,7.7,Sling Media,NA,12.72,On-Campus
+B.Tech,Electrical Engineering,8.06,Sprinklr,Business Analyst,18.0,On-Campus
+B.Tech,Electrical Engineering,8.18,Sprinklr,Business Analyst,18.0,On-Campus
+B.Tech,Electrical Engineering,8.63,Sterlite Technologies LTD,Graduate Engineer Trainee,16.0,On-Campus
+B.Tech,Electrical Engineering,8.7,Sterlite Technologies LTD,Graduate Engineer Trainee,16.0,On-Campus
+B.Tech,Electrical Engineering,7.08,SUDLife,Software Engineer,16.0,On-Campus
+B.Tech,Electrical Engineering,7.88,Toppr,NA,21.0,On-Campus
+B.Tech,Electrical Engineering,8.52,Toppr,NA,21.0,On-Campus
+B.Tech,Electrical Engineering,8.57,Unacademy,NA,20.0,On-Campus
+B.Tech,Electrical Engineering,8.57,Walmart,NA,29.0,On-Campus
+B.Tech,Electrical Engineering,8.75,Walmart,NA,29.0,On-Campus
+B.Tech,Electrical Engineering,7.78,Zomato,NA,20.0,On-Campus
+B.Tech,Electronics & Communication Engineering,6.71,Accenture India,NA,15.92,On-Campus
+B.Tech,Electronics & Communication Engineering,8.18,Amazon India,NA,44.1,On-Campus
+B.Tech,Electronics & Communication Engineering,8.21,Amazon India,NA,44.1,On-Campus
+B.Tech,Electronics & Communication Engineering,8.36,Amazon India,NA,44.1,On-Campus
+B.Tech,Electronics & Communication Engineering,8.4,Amazon India,NA,44.1,On-Campus
+B.Tech,Electronics & Communication Engineering,8.57,Amazon India,NA,44.1,On-Campus
+B.Tech,Electronics & Communication Engineering,6.14,Amdocs,NA,10.0,On-Campus
+B.Tech,Electronics & Communication Engineering,6.29,Amdocs,NA,10.0,On-Campus
+B.Tech,Electronics & Communication Engineering,6.38,Amdocs,NA,10.0,On-Campus
+B.Tech,Electronics & Communication Engineering,6.57,Amdocs,NA,10.0,On-Campus
+B.Tech,Electronics & Communication Engineering,6.8,Amdocs,NA,10.0,On-Campus
+B.Tech,Electronics & Communication Engineering,7.05,Amdocs,NA,10.0,On-Campus
+B.Tech,Electronics & Communication Engineering,8.23,Amdocs,NA,10.0,On-Campus
+B.Tech,Electronics & Communication Engineering,8.11,Atlassian,NA,26.57,On-Campus
+B.Tech,Electronics & Communication Engineering,6.7,Axis Bank,Analyst,14.0,On-Campus
+B.Tech,Electronics & Communication Engineering,7.49,Barclays,Business Analyst,18.7,PPO
+B.Tech,Electronics & Communication Engineering,8.45,Barclays,Business Analyst,18.7,PPO
+B.Tech,Electronics & Communication Engineering,5.9,Beehyv,Software Engineer,7.0,On-Campus
+B.Tech,Electronics & Communication Engineering,7.91,Beehyv,NA,7.0,On-Campus
+B.Tech,Electronics & Communication Engineering,6.76,Bharat Electronics Ltd.,NA,11.04,On-Campus
+B.Tech,Electronics & Communication Engineering,8.0,Bharat Electronics Ltd.,NA,11.04,On-Campus
+B.Tech,Electronics & Communication Engineering,7.65,Brigosha Technologies,NA,14.0,On-Campus
+B.Tech,Electronics & Communication Engineering,6.24,Capgemini,Business Analyst,10.0,On-Campus
+B.Tech,Electronics & Communication Engineering,6.44,Capgemini,Business Analyst,10.0,On-Campus
+B.Tech,Electronics & Communication Engineering,6.92,CDAC,Business Analyst,7.8,PPO
+B.Tech,Electronics & Communication Engineering,6.54,Cogoport,NA,14.0,On-Campus
+B.Tech,Electronics & Communication Engineering,8.43,DG Takano,NA,30.0,On-Campus
+B.Tech,Electronics & Communication Engineering,6.64,Fiserv,NA,15.0,On-Campus
+B.Tech,Electronics & Communication Engineering,7.07,Flipkart,NA,28.58,On-Campus
+B.Tech,Electronics & Communication Engineering,7.17,Flipkart,NA,28.58,On-Campus
+B.Tech,Electronics & Communication Engineering,8.35,Flipkart,NA,28.58,On-Campus
+B.Tech,Electronics & Communication Engineering,8.4,Flipkart,Software Engineer,26.58,PPO
+B.Tech,Electronics & Communication Engineering,6.91,Florance Capital,NA,20.0,On-Campus
+B.Tech,Electronics & Communication Engineering,7.76,Florence Capital (2nd Drive),NA,20.0,On-Campus
+B.Tech,Electronics & Communication Engineering,7.74,Goldman Sachs,NA,23.0,On-Campus
+B.Tech,Electronics & Communication Engineering,8.12,Goldman Sachs,Software Engineer,31.5,PPO
+B.Tech,Electronics & Communication Engineering,8.5,Goldman Sachs,NA,23.0,On-Campus
+B.Tech,Electronics & Communication Engineering,8.9,Goldman Sachs,Software Engineer,31.5,PPO
+B.Tech,Electronics & Communication Engineering,7.6,Google India,NA,30.36,On-Campus
+B.Tech,Electronics & Communication Engineering,8.67,Google India,NA,30.36,On-Campus
+B.Tech,Electronics & Communication Engineering,7.97,HCL,Other,8.5,On-Campus
+B.Tech,Electronics & Communication Engineering,6.58,ICICI Bank,NA,16.0,On-Campus
+B.Tech,Electronics & Communication Engineering,7.0,ICICI Bank,NA,16.0,On-Campus
+B.Tech,Electronics & Communication Engineering,7.07,ICICI Bank,NA,16.0,On-Campus
+B.Tech,Electronics & Communication Engineering,7.83,ICICI Bank,NA,16.0,On-Campus
+B.Tech,Electronics & Communication Engineering,8.5,ICICI Bank,NA,16.0,On-Campus
+B.Tech,Electronics & Communication Engineering,8.29,Inmobi,NA,31.53,On-Campus
+B.Tech,Electronics & Communication Engineering,8.5,Inmobi,NA,31.53,On-Campus
+B.Tech,Electronics & Communication Engineering,8.76,Inmobi,NA,31.53,On-Campus
+B.Tech,Electronics & Communication Engineering,7.25,Innovaccer,APM,12.0,On-Campus
+B.Tech,Electronics & Communication Engineering,8.63,Instalimb,Electrical Engineer,17.0,PPO
+B.Tech,Electronics & Communication Engineering,7.71,Jaguar Landrover,NA,21.28,On-Campus
+B.Tech,Electronics & Communication Engineering,6.14,L&T Infotech,NA,9.0,On-Campus
+B.Tech,Electronics & Communication Engineering,7.18,L&T Infotech,NA,9.0,On-Campus
+B.Tech,Electronics & Communication Engineering,8.31,Mathwork,NA,21.8,On-Campus
+B.Tech,Electronics & Communication Engineering,7.17,Meesho,NA,37.0,On-Campus
+B.Tech,Electronics & Communication Engineering,7.57,Meesho,NA,37.0,On-Campus
+B.Tech,Electronics & Communication Engineering,7.68,Meesho,NA,37.0,On-Campus
+B.Tech,Electronics & Communication Engineering,8.31,Meesho,NA,37.0,On-Campus
+B.Tech,Electronics & Communication Engineering,8.36,Meesho,NA,37.0,On-Campus
+B.Tech,Electronics & Communication Engineering,7.67,Merilytics,Senior Technical Associate,9.5,On-Campus
+B.Tech,Electronics & Communication Engineering,7.51,Microsoft India,NA,46.08,On-Campus
+B.Tech,Electronics & Communication Engineering,8.16,Microsoft India,NA,46.08,On-Campus
+B.Tech,Electronics & Communication Engineering,8.6,Microsoft India,NA,46.08,On-Campus
+B.Tech,Electronics & Communication Engineering,7.95,Money Forward,NA,45.08,On-Campus
+B.Tech,Electronics & Communication Engineering,8.51,Money Forward,NA,45.08,On-Campus
+B.Tech,Electronics & Communication Engineering,7.97,Myntra,NA,30.0,On-Campus
+B.Tech,Electronics & Communication Engineering,8.27,Newzera,NA,33.87,On-Campus
+B.Tech,Electronics & Communication Engineering,8.66,Newzera,NA,33.87,On-Campus
+B.Tech,Electronics & Communication Engineering,6.92,Reliance Jio,NA,18.5,On-Campus
+B.Tech,Electronics & Communication Engineering,8.6,Reliance Jio,NA,18.5,On-Campus
+B.Tech,Electronics & Communication Engineering,6.75,Reliance Jio (TS1),NA,18.5,On-Campus
+B.Tech,Electronics & Communication Engineering,6.89,Reliance Jio (TS1),NA,18.5,On-Campus
+B.Tech,Electronics & Communication Engineering,7.34,Reliance Jio (TS1),NA,18.5,On-Campus
+B.Tech,Electronics & Communication Engineering,7.35,Reliance Jio (TS1),NA,18.5,On-Campus
+B.Tech,Electronics & Communication Engineering,7.48,Reliance Jio (TS1),NA,18.5,On-Campus
+B.Tech,Electronics & Communication Engineering,7.73,Reliance Jio (TS1),NA,18.5,On-Campus
+B.Tech,Electronics & Communication Engineering,8.37,Reliance Jio (TS1),NA,18.5,On-Campus
+B.Tech,Electronics & Communication Engineering,8.69,Reliance Jio (TS1),NA,18.5,On-Campus
+B.Tech,Electronics & Communication Engineering,8.93,Reliance Jio (TS1),NA,18.5,On-Campus
+B.Tech,Electronics & Communication Engineering,8.97,Reliance Jio (TS1),NA,18.5,On-Campus
+B.Tech,Electronics & Communication Engineering,7.46,"Samsung Research Institute, Bangalore",NA,20.0,On-Campus
+B.Tech,Electronics & Communication Engineering,8.11,"Samsung Research Institute, Bangalore",NA,20.0,On-Campus
+B.Tech,Electronics & Communication Engineering,8.38,"Samsung Research Institute, Bangalore",NA,20.0,On-Campus
+B.Tech,Electronics & Communication Engineering,8.4,"Samsung Research Institute, Bangalore",Software Engineer,20.0,PPO
+B.Tech,Electronics & Communication Engineering,8.5,"Samsung Research Institute, Bangalore",Software Engineer,20.0,PPO
+B.Tech,Electronics & Communication Engineering,8.86,"Samsung Research Institute, Bangalore",Software Engineer,20.0,PPO
+B.Tech,Electronics & Communication Engineering,8.86,"Samsung Research Institute, Bangalore",Software Engineer,20.0,PPO
+B.Tech,Electronics & Communication Engineering,9.25,"Samsung Research Institute, Bangalore",NA,40.0,On-Campus
+B.Tech,Electronics & Communication Engineering,9.01,Standard Chartered,NA,18.2,PPO
+B.Tech,Electronics & Communication Engineering,6.43,Sterlite Technologies LTD,Graduate Engineer Trainee,16.0,On-Campus
+B.Tech,Electronics & Communication Engineering,8.14,Sterlite Technologies LTD,Graduate Engineer Trainee,16.0,On-Campus
+B.Tech,Electronics & Communication Engineering,7.84,Swiggy,NA,32.0,On-Campus
+B.Tech,Electronics & Communication Engineering,6.28,Testbook,Business Analyst,12.0,On-Campus
+B.Tech,Electronics & Communication Engineering,8.72,Toppr,NA,21.0,On-Campus
+B.Tech,Electronics & Communication Engineering,9.14,Toyokoh,Engineer,19.78,PPO
+B.Tech,Electronics & Communication Engineering,8.1,Walmart,Software Engineer,22.62,PPO
+B.Tech,Electronics & Communication Engineering,8.4,Walmart,Software Engineer,22.62,PPO
+B.Tech,Electronics & Instrumentation Engineering,7.05,Accenture India,NA,15.92,On-Campus
+B.Tech,Electronics & Instrumentation Engineering,8.17,Amazon India,NA,29.91,PPO
+B.Tech,Electronics & Instrumentation Engineering,7.79,Amazon India,NA,29.91,PPO
+B.Tech,Electronics & Instrumentation Engineering,7.72,Amdocs,NA,10.0,On-Campus
+B.Tech,Electronics & Instrumentation Engineering,6.57,Axis Bank,Analyst,14.0,On-Campus
+B.Tech,Electronics & Instrumentation Engineering,6.87,Cashfree,NA,19.0,On-Campus
+B.Tech,Electronics & Instrumentation Engineering,8.51,Cashfree,NA,19.0,On-Campus
+B.Tech,Electronics & Instrumentation Engineering,7.11,Cogoport,NA,14.0,On-Campus
+B.Tech,Electronics & Instrumentation Engineering,7.63,Cogoport,NA,14.0,On-Campus
+B.Tech,Electronics & Instrumentation Engineering,7.7,Cogoport,NA,14.0,On-Campus
+B.Tech,Electronics & Instrumentation Engineering,8.58,Deutsch Bank,NA,19.63,On-Campus
+B.Tech,Electronics & Instrumentation Engineering,7.7,Fiserv,NA,15.0,On-Campus
+B.Tech,Electronics & Instrumentation Engineering,7.61,Flipkart,NA,28.58,On-Campus
+B.Tech,Electronics & Instrumentation Engineering,7.73,Flipkart,NA,28.58,On-Campus
+B.Tech,Electronics & Instrumentation Engineering,8.39,Google India,NA,30.36,On-Campus
+B.Tech,Electronics & Instrumentation Engineering,6.78,HCL,Software Engineer,8.5,On-Campus
+B.Tech,Electronics & Instrumentation Engineering,8.47,Innovaccer,APM,12.0,On-Campus
+B.Tech,Electronics & Instrumentation Engineering,7.02,L&T Infotech,NA,9.0,On-Campus
+B.Tech,Electronics & Instrumentation Engineering,6.11,Lumenci,NA,10.0,On-Campus
+B.Tech,Electronics & Instrumentation Engineering,7.13,Meesho,NA,37.0,On-Campus
+B.Tech,Electronics & Instrumentation Engineering,6.7,Merilytics,Senior Technical Associate,9.5,On-Campus
+B.Tech,Electronics & Instrumentation Engineering,7.22,Nineleaps,Data Engineers,12.0,On-Campus
+B.Tech,Electronics & Instrumentation Engineering,8.1,Oracle,NA,31.95,On-Campus
+B.Tech,Electronics & Instrumentation Engineering,8.23,Paytm,Software Engineer,21.0,On-Campus
+B.Tech,Electronics & Instrumentation Engineering,8.78,Standard Chartered,NA,18.2,PPO
+B.Tech,Electronics & Instrumentation Engineering,9.1,Texas Instrument,NA,28.41,On-Campus
+B.Tech,Electronics & Instrumentation Engineering,7.67,Toppr,NA,21.0,On-Campus
+B.Tech,Electronics & Instrumentation Engineering,8.03,Zomato,NA,20.0,On-Campus
+B.Tech,Engineering Physics,8.32,Amazon India,NA,29.91,PPO
+B.Tech,Engineering Physics,6.8,Future First,NA,12.4,On-Campus
+B.Tech,Engineering Physics,9.1,Google India,NA,22.76,PPO
+B.Tech,Engineering Physics,7.54,ICICI Bank,NA,16.0,On-Campus
+B.Tech,Engineering Physics,6.78,Nineleaps,Data Engineers,12.0,On-Campus
+B.Tech,Engineering Physics,7.15,Reliance Jio (TS2),NA,15.0,On-Campus
+B.Tech,Engineering Physics,7.06,Schneider Electric,NA,15.0,On-Campus
+B.Tech,Engineering Physics,7.61,Sprinklr,Business Analyst,18.0,On-Campus
+B.Tech,Engineering Physics,8.6,ZS Associates,Analyst,18.25,On-Campus
+B.Tech,Environmental Engineering,8.39,Axis Bank,Risk,14.0,On-Campus
+B.Tech,Environmental Engineering,6.81,Byju's,Faculty,NA,On-Campus
+B.Tech,Environmental Engineering,7.41,Cairn Oil &Gas,NA,20.2,On-Campus
+B.Tech,Environmental Engineering,7.9,Cairn Oil &Gas,NA,20.2,On-Campus
+B.Tech,Environmental Engineering,9.49,Cairn Oil &Gas,Graduate Engineer Trainee,14.95,PPO
+B.Tech,Environmental Engineering,6.35,Capgemini,Business Analyst,10.0,On-Campus
+B.Tech,Environmental Engineering,7.47,Capgemini,Business Analyst,10.0,On-Campus
+B.Tech,Environmental Engineering,8.33,Cogoport,NA,14.0,On-Campus
+B.Tech,Environmental Engineering,7.16,Future First,NA,12.4,On-Campus
+B.Tech,Environmental Engineering,7.62,Innovaccer,NA,14.0,On-Campus
+B.Tech,Environmental Engineering,7.65,Innovaccer,NA,14.0,On-Campus
+B.Tech,Environmental Engineering,7.11,Microsoft India,NA,45.03,PPO
+B.Tech,Environmental Engineering,9.11,Microsoft India,NA,45.03,PPO
+B.Tech,Environmental Engineering,7.42,PhonePe,NA,30.5,On-Campus
+B.Tech,Environmental Engineering,6.46,Quantiphi,NA,8.5,On-Campus
+B.Tech,Environmental Engineering,7.82,Razorpay,NA,31.0,On-Campus
+B.Tech,Environmental Engineering,6.94,SUDLife,Software Engineer,16.0,On-Campus
+B.Tech,Environmental Engineering,7.47,Tata Steel,Management Trainee Technical,10.52,PPO
+B.Tech,Environmental Engineering,8.05,Tata Steel_Enviro,NA,10.52,On-Campus
+B.Tech,Environmental Engineering,8.65,Tata Steel_Enviro,NA,10.52,On-Campus
+B.Tech,Environmental Engineering,7.1,Tiger analytics,NA,10.0,On-Campus
+B.Tech,Environmental Engineering,8.68,Walmart,NA,29.0,On-Campus
+Integrated M.Tech,Mathematics & Computing,7.79,Accenture Japan,NA,49.13,On-Campus
+Integrated M.Tech,Mathematics & Computing,8.08,Accenture Japan,NA,49.13,On-Campus
+Integrated M.Tech,Mathematics & Computing,9.24,Amazon Doublin,NA,100.0,Off campus
+Integrated M.Tech,Mathematics & Computing,8.18,Amazon India,NA,44.1,On-Campus
+Integrated M.Tech,Mathematics & Computing,8.45,Amazon India,NA,29.91,PPO
+Integrated M.Tech,Mathematics & Computing,8.95,Amazon India,NA,29.91,PPO
+Integrated M.Tech,Mathematics & Computing,9.0,Amazon India,NA,29.91,PPO
+Integrated M.Tech,Mathematics & Computing,6.56,Amdocs,NA,10.0,On-Campus
+Integrated M.Tech,Mathematics & Computing,8.41,Arista Networks,NA,7.0,PPO
+Integrated M.Tech,Mathematics & Computing,8.64,Arista Networks,NA,23.55,On-Campus
+Integrated M.Tech,Mathematics & Computing,7.56,Axis Bank,Internal Audit,14.0,On-Campus
+Integrated M.Tech,Mathematics & Computing,6.33,Axxela Advisory,NA,11.5,On-Campus
+Integrated M.Tech,Mathematics & Computing,7.38,Cashfree,NA,19.0,On-Campus
+Integrated M.Tech,Mathematics & Computing,7.67,Cogoport,NA,14.0,On-Campus
+Integrated M.Tech,Mathematics & Computing,6.38,Dell,NA,14.0,On-Campus
+Integrated M.Tech,Mathematics & Computing,8.48,Flipkart,Software Engineer,26.58,Online Event
+Integrated M.Tech,Mathematics & Computing,8.81,Flipkart,Software Engineer,28.58,Online Event
+Integrated M.Tech,Mathematics & Computing,8.0,Goldman Sachs,NA,23.0,On-Campus
+Integrated M.Tech,Mathematics & Computing,8.06,Goldman Sachs,Software Engineer,31.5,PPO
+Integrated M.Tech,Mathematics & Computing,8.45,Google India,Software Engineer,30.36,PPO
+Integrated M.Tech,Mathematics & Computing,8.95,Google India,Software Engineer,30.36,PPO
+Integrated M.Tech,Mathematics & Computing,6.8,IBM,NA,17.25,PPO
+Integrated M.Tech,Mathematics & Computing,7.37,IBM,NA,15.0,On-Campus
+Integrated M.Tech,Mathematics & Computing,8.98,Inmobi,NA,31.53,On-Campus
+Integrated M.Tech,Mathematics & Computing,8.08,Microsoft India,NA,46.08,On-Campus
+Integrated M.Tech,Mathematics & Computing,8.33,Microsoft India,NA,46.08,On-Campus
+Integrated M.Tech,Mathematics & Computing,8.45,Microsoft India,NA,45.03,PPO
+Integrated M.Tech,Mathematics & Computing,7.61,Money Forward,NA,45.08,On-Campus
+Integrated M.Tech,Mathematics & Computing,5.64,Nineleaps,Software Engineer,12.0,On-Campus
+Integrated M.Tech,Mathematics & Computing,8.68,Oracle,NA,31.95,On-Campus
+Integrated M.Tech,Mathematics & Computing,6.23,Reliance Jio (TS1),NA,18.5,On-Campus
+Integrated M.Tech,Mathematics & Computing,7.05,Reliance Jio (TS1),NA,18.5,On-Campus
+Integrated M.Tech,Mathematics & Computing,7.38,Reliance Jio (TS1),NA,18.5,On-Campus
+Integrated M.Tech,Mathematics & Computing,7.62,Reliance Jio (TS1),NA,18.5,On-Campus
+Integrated M.Tech,Mathematics & Computing,8.47,Reliance Jio (TS1),NA,18.5,On-Campus
+Integrated M.Tech,Mathematics & Computing,8.48,Reliance Jio (TS1),NA,18.5,On-Campus
+Integrated M.Tech,Mathematics & Computing,8.59,Reliance Jio (TS1),NA,18.5,On-Campus
+Integrated M.Tech,Mathematics & Computing,8.67,Reliance Jio (TS1),NA,18.5,On-Campus
+Integrated M.Tech,Mathematics & Computing,8.53,"Samsung Research Institute, Bangalore",Software Engineer,20.0,PPO
+Integrated M.Tech,Mathematics & Computing,8.71,"Samsung Research Institute, Bangalore",NA,40.0,On-Campus
+Integrated M.Tech,Mathematics & Computing,8.75,Sliceit,NA,23.0,On-Campus
+Integrated M.Tech,Mathematics & Computing,7.37,Sling Media,NA,12.72,On-Campus
+Integrated M.Tech,Mathematics & Computing,8.25,Standard Chartered,NA,18.2,PPO
+Integrated M.Tech,Mathematics & Computing,8.45,Udaan,NA,40.0,On-Campus
+Integrated M.Tech,Mathematics & Computing,8.17,Walmart,Software Engineer,24.17,PPO
+Integrated M.Tech,Mathematics & Computing,8.31,Walmart,Software Engineer,24.17,PPO
+Integrated M.Tech,Mathematics & Computing,6.8,Wipro Limited,Engineer,6.5,On-Campus
+B.Tech,Mechanical Engineering,6.46,Aarti Industries,NA,7.0,On-Campus
+B.Tech,Mechanical Engineering,8.68,Aarti Industries,NA,7.0,On-Campus
+B.Tech,Mechanical Engineering,8.09,Accenture India,NA,15.92,On-Campus
+B.Tech,Mechanical Engineering,7.26,Accenture Japan,NA,49.13,On-Campus
+B.Tech,Mechanical Engineering,8.96,Addverb,NA,14.33,On-Campus
+B.Tech,Mechanical Engineering,6.6,Aditya Birla,NA,6.0,On-Campus
+B.Tech,Mechanical Engineering,7.0,Aditya Birla,NA,6.0,On-Campus
+B.Tech,Mechanical Engineering,7.96,Aditya Birla,NA,6.0,On-Campus
+B.Tech,Mechanical Engineering,7.41,American Express,NA,19.19,On-Campus
+B.Tech,Mechanical Engineering,7.57,Axis Bank,Analyst,14.0,On-Campus
+B.Tech,Mechanical Engineering,7.48,Axxela Advisory,NA,11.5,On-Campus
+B.Tech,Mechanical Engineering,7.89,Bajaj Auto,NA,14.09,On-Campus
+B.Tech,Mechanical Engineering,8.18,Bajaj Auto,NA,14.09,On-Campus
+B.Tech,Mechanical Engineering,7.86,Beehyv,NA,7.0,On-Campus
+B.Tech,Mechanical Engineering,6.51,Bharat Electronics Ltd.,NA,11.04,On-Campus
+B.Tech,Mechanical Engineering,8.25,Bharat Electronics Ltd.,NA,11.04,On-Campus
+B.Tech,Mechanical Engineering,8.65,Bharat Electronics Ltd.,NA,11.04,On-Campus
+B.Tech,Mechanical Engineering,8.71,Bharat Electronics Ltd.,NA,11.04,On-Campus
+B.Tech,Mechanical Engineering,9.09,Bharat Electronics Ltd.,NA,11.04,On-Campus
+B.Tech,Mechanical Engineering,9.31,Bharat Electronics Ltd.,NA,11.04,On-Campus
+B.Tech,Mechanical Engineering,6.73,Capgemini,Business Analyst,10.0,On-Campus
+B.Tech,Mechanical Engineering,7.85,Capgemini,Business Analyst,10.0,On-Campus
+B.Tech,Mechanical Engineering,7.95,Cogoport,NA,14.0,On-Campus
+B.Tech,Mechanical Engineering,8.46,Cogoport,NA,14.0,On-Campus
+B.Tech,Mechanical Engineering,8.46,Deutsch Bank,NA,19.63,On-Campus
+B.Tech,Mechanical Engineering,8.59,Deutsch Bank,NA,19.63,On-Campus
+B.Tech,Mechanical Engineering,8.15,DG Takano,Engineer,30.0,PPO
+B.Tech,Mechanical Engineering,7.0,Field Genie Pvt Ltd,Management Trainee,8.0,On-Campus
+B.Tech,Mechanical Engineering,7.03,Flipkart,NA,28.58,On-Campus
+B.Tech,Mechanical Engineering,7.74,Flipkart,NA,28.58,On-Campus
+B.Tech,Mechanical Engineering,8.53,Flipkart,NA,28.58,On-Campus
+B.Tech,Mechanical Engineering,7.09,Future First,NA,12.4,On-Campus
+B.Tech,Mechanical Engineering,6.02,HCL,Software Engineer,8.5,On-Campus
+B.Tech,Mechanical Engineering,6.01,Holcim Group_ACC cement,NA,10.0,On-Campus
+B.Tech,Mechanical Engineering,6.19,Holcim Group_ACC cement,NA,10.0,On-Campus
+B.Tech,Mechanical Engineering,6.46,Holcim Group_ACC cement,NA,10.0,On-Campus
+B.Tech,Mechanical Engineering,7.0,Holcim Group_ACC cement,NA,10.0,On-Campus
+B.Tech,Mechanical Engineering,7.0,Holcim Group_ACC cement,NA,10.0,On-Campus
+B.Tech,Mechanical Engineering,7.4,I'm Beside You,Business Developer,36.0,PPO
+B.Tech,Mechanical Engineering,6.96,ICICI Bank,NA,16.0,On-Campus
+B.Tech,Mechanical Engineering,7.35,ICICI Bank,NA,16.0,On-Campus
+B.Tech,Mechanical Engineering,7.62,ICICI Bank,NA,16.0,On-Campus
+B.Tech,Mechanical Engineering,7.28,idrive,NA,15.0,On-Campus
+B.Tech,Mechanical Engineering,7.72,Innovaccer,APM,12.0,On-Campus
+B.Tech,Mechanical Engineering,7.81,Innovaccer,APM,12.0,On-Campus
+B.Tech,Mechanical Engineering,8.27,Innovaccer,APM,12.0,On-Campus
+B.Tech,Mechanical Engineering,8.34,Innovaccer,APM,12.0,On-Campus
+B.Tech,Mechanical Engineering,7.44,John Deere,NA,10.8,On-Campus
+B.Tech,Mechanical Engineering,7.76,L&T Construction,NA,6.0,On-Campus
+B.Tech,Mechanical Engineering,8.88,L&T Construction,NA,6.0,On-Campus
+B.Tech,Mechanical Engineering,6.93,L&T Infotech,NA,9.0,On-Campus
+B.Tech,Mechanical Engineering,7.42,L&T Infotech,NA,9.0,On-Campus
+B.Tech,Mechanical Engineering,7.54,L&T Infotech,NA,9.0,On-Campus
+B.Tech,Mechanical Engineering,8.0,Mathwork,NA,21.8,On-Campus
+B.Tech,Mechanical Engineering,8.59,Meesho,NA,37.0,On-Campus
+B.Tech,Mechanical Engineering,8.51,Merilytics,Business Analyst,9.5,On-Campus
+B.Tech,Mechanical Engineering,8.17,Myntra,NA,30.0,PPO
+B.Tech,Mechanical Engineering,8.38,Myntra,NA,30.0,PPO
+B.Tech,Mechanical Engineering,6.83,Nineleaps,Data Engineers,12.0,On-Campus
+B.Tech,Mechanical Engineering,7.64,Nineleaps,Software Engineer,12.0,On-Campus
+B.Tech,Mechanical Engineering,7.62,PWC,NA,10.0,On-Campus
+B.Tech,Mechanical Engineering,8.35,Razorpay,NA,31.0,On-Campus
+B.Tech,Mechanical Engineering,7.13,Reliance Jio (TS2),NA,15.0,On-Campus
+B.Tech,Mechanical Engineering,7.36,Reliance Jio (TS2),NA,15.0,On-Campus
+B.Tech,Mechanical Engineering,7.61,"Samsung Research Institute, Bangalore",NA,20.0,On-Campus
+B.Tech,Mechanical Engineering,7.23,Scheneider Electic,NA,15.0,On-Campus
+B.Tech,Mechanical Engineering,9.1,Scheneider Electic,NA,15.0,On-Campus
+B.Tech,Mechanical Engineering,9.18,Scheneider Electic,NA,15.0,On-Campus
+B.Tech,Mechanical Engineering,7.1,Schneider Electric,NA,15.0,On-Campus
+B.Tech,Mechanical Engineering,7.53,Schneider Electric,NA,15.0,On-Campus
+B.Tech,Mechanical Engineering,9.06,Simwell,NA,15.0,On-Campus
+B.Tech,Mechanical Engineering,7.29,Sling Media,NA,12.72,On-Campus
+B.Tech,Mechanical Engineering,7.41,Sprinklr,Business Analyst,18.0,On-Campus
+B.Tech,Mechanical Engineering,7.72,Sprinklr,Business Analyst,18.0,On-Campus
+B.Tech,Mechanical Engineering,8.04,Sprinklr,Business Analyst,18.0,On-Campus
+B.Tech,Mechanical Engineering,7.2,Standard Chartered,NA,17.22,On-Campus
+B.Tech,Mechanical Engineering,8.43,Standard Chartered,NA,18.2,PPO
+B.Tech,Mechanical Engineering,6.06,Sterlite Technologies LTD,Graduate Engineer Trainee,16.0,On-Campus
+B.Tech,Mechanical Engineering,7.78,Sterlite Technologies LTD,Graduate Engineer Trainee,16.0,On-Campus
+B.Tech,Mechanical Engineering,8.07,Talent Recruit,Software Engineer,10.0,On-Campus
+B.Tech,Mechanical Engineering,6.88,Tata Electronics Pvt. Ltd,Graduate Engineer Trainee,8.0,Pooled Campus
+B.Tech,Mechanical Engineering,6.92,Tata Electronics Pvt. Ltd,Graduate Engineer Trainee,8.0,Pooled Campus
+B.Tech,Mechanical Engineering,7.27,Tata Electronics Pvt. Ltd,Graduate Engineer Trainee,8.0,Pooled Campus
+B.Tech,Mechanical Engineering,7.88,Tata Electronics Pvt. Ltd,Graduate Engineer Trainee,8.0,Pooled Campus
+B.Tech,Mechanical Engineering,8.55,Tata Electronics Pvt. Ltd,Graduate Engineer Trainee,8.0,Pooled Campus
+B.Tech,Mechanical Engineering,7.53,Testbook,Software Engineer,14.0,On-Campus
+B.Tech,Mechanical Engineering,7.51,Truminds,NA,13.5,On-Campus
+B.Tech,Mechanical Engineering,8.15,Truminds,NA,13.5,On-Campus
+B.Tech,Mechanical Engineering,7.02,ZS Associates,NA,18.25,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,7.14,Accenture India,NA,15.92,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,7.99,Accenture India,NA,15.92,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,8.13,Amazon India,NA,29.91,PPO
+B.Tech,Mineral & Metallurgical Engineering,9.06,Axis Bank,Internal Audit,14.0,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,8.17,Axxela Advisory,NA,11.5,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,6.97,Capgemini,Business Analyst,10.0,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,6.59,Cubation Consulting,NA,7.66,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,7.99,Cubation Consulting,NA,7.66,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,6.28,Flipkart,NA,28.58,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,6.54,Flipkart,NA,28.58,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,7.75,Flipkart,NA,28.58,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,6.56,Future First,NA,12.4,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,8.46,Merilytics,Analyst,10.3,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,7.51,Nucleus Software,Software Engineer,10.0,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,9.22,PhonePe,NA,30.5,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,7.49,Razorpay,NA,31.0,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,6.96,Reliance Jio (TS2),NA,15.0,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,8.96,Reliance Jio (TS2),NA,15.0,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,7.54,Sprinklr,Business Analyst,18.0,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,8.81,Standard Chartered,NA,18.2,PPO
+B.Tech,Mineral & Metallurgical Engineering,8.58,Tata Steel,Management Trainee Technical,10.52,PPO
+B.Tech,Mineral & Metallurgical Engineering,7.35,Toppr,NA,21.0,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,5.83,Vedanta Ltd,NA,7.0,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,6.51,Vedanta Ltd,NA,7.0,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,6.78,Vedanta Ltd,NA,7.0,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,7.37,Vedanta Ltd,NA,7.0,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,7.56,Vedanta Ltd,NA,7.0,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,7.67,Vedanta Ltd,NA,7.0,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,8.02,Vedanta Ltd,NA,7.0,On-Campus
+B.Tech,Mineral & Metallurgical Engineering,6.64,ZS Associates,Analyst,12.85,PPO
+B.Tech,Mining Engineering,7.37,Accenture India (2nd Drive),NA,15.92,On-Campus
+B.Tech,Mining Engineering,6.72,Adani Enterprises Ltd,NA,NA,On-Campus
+B.Tech,Mining Engineering,6.94,Adani Enterprises Ltd,NA,NA,On-Campus
+B.Tech,Mining Engineering,7.5,Adani Enterprises Ltd,NA,NA,On-Campus
+B.Tech,Mining Engineering,7.41,Aditya Birla,NA,6.0,On-Campus
+B.Tech,Mining Engineering,7.99,Aditya Birla,NA,6.0,On-Campus
+B.Tech,Mining Engineering,8.08,Aditya Birla,NA,6.0,On-Campus
+B.Tech,Mining Engineering,7.27,Axis Bank,Analyst,14.0,On-Campus
+B.Tech,Mining Engineering,7.44,Axis Bank,Analyst,14.0,On-Campus
+B.Tech,Mining Engineering,7.63,Axis Bank,Analyst,14.0,On-Campus
+B.Tech,Mining Engineering,8.08,Axis Bank,Internal Audit,14.0,On-Campus
+B.Tech,Mining Engineering,7.97,Axxela Advisory,Analyst,8.0,PPO
+B.Tech,Mining Engineering,8.28,Axxela Advisory,NA,11.5,On-Campus
+B.Tech,Mining Engineering,7.79,Beehyv,NA,7.0,On-Campus
+B.Tech,Mining Engineering,7.39,Capgemini,Business Analyst,10.0,On-Campus
+B.Tech,Mining Engineering,6.75,Cogoport,NA,14.0,On-Campus
+B.Tech,Mining Engineering,8.02,Cogoport,NA,14.0,On-Campus
+B.Tech,Mining Engineering,8.42,CRISIL,NA,8.2,On-Campus
+B.Tech,Mining Engineering,6.58,Cubation Consulting,NA,7.66,On-Campus
+B.Tech,Mining Engineering,7.7,Cubation Consulting,NA,7.66,On-Campus
+B.Tech,Mining Engineering,7.6,Flipkart,NA,28.58,On-Campus
+B.Tech,Mining Engineering,7.61,Future First,NA,12.4,On-Campus
+B.Tech,Mining Engineering,6.24,Holcim Group_ACC cement,NA,10.0,On-Campus
+B.Tech,Mining Engineering,6.34,Holcim Group_ACC cement,NA,10.0,On-Campus
+B.Tech,Mining Engineering,6.69,Holcim Group_ACC cement,NA,10.0,On-Campus
+B.Tech,Mining Engineering,6.74,Holcim Group_ACC cement,NA,10.0,On-Campus
+B.Tech,Mining Engineering,6.77,Holcim Group_ACC cement,NA,10.0,On-Campus
+B.Tech,Mining Engineering,6.96,Holcim Group_ACC cement,NA,10.0,On-Campus
+B.Tech,Mining Engineering,7.27,Holcim Group_ACC cement,NA,10.0,On-Campus
+B.Tech,Mining Engineering,7.8,Holcim Group_ACC cement,NA,10.0,On-Campus
+B.Tech,Mining Engineering,7.71,ICICI Bank,NA,16.0,On-Campus
+B.Tech,Mining Engineering,8.25,ICICI Bank,NA,16.0,On-Campus
+B.Tech,Mining Engineering,7.4,MediBuddy,Software Engineer,15.0,On-Campus
+B.Tech,Mining Engineering,7.66,Meesho,NA,37.0,On-Campus
+B.Tech,Mining Engineering,7.79,Meesho,NA,37.0,On-Campus
+B.Tech,Mining Engineering,7.17,Merilytics,Business Analyst,9.5,On-Campus
+B.Tech,Mining Engineering,7.4,Merilytics,Business Analyst,9.5,On-Campus
+B.Tech,Mining Engineering,7.57,Merilytics,Business Analyst,9.5,On-Campus
+B.Tech,Mining Engineering,7.7,Merilytics,Business Analyst,9.5,On-Campus
+B.Tech,Mining Engineering,8.47,Merilytics,Business Analyst,9.5,On-Campus
+B.Tech,Mining Engineering,8.11,Microsoft India,Software Engineer,45.03,PPO
+B.Tech,Mining Engineering,6.98,Nineleaps,Data Engineers,12.0,On-Campus
+B.Tech,Mining Engineering,7.65,PhonePe,NA,30.5,On-Campus
+B.Tech,Mining Engineering,6.5,PWC,NA,10.0,On-Campus
+B.Tech,Mining Engineering,7.89,PwC,Other,8.0,PPO
+B.Tech,Mining Engineering,8.23,PWC,NA,10.0,On-Campus
+B.Tech,Mining Engineering,9.04,PWC,NA,10.0,On-Campus
+B.Tech,Mining Engineering,7.76,Reliance Jio (TS2),NA,15.0,On-Campus
+B.Tech,Mining Engineering,8.54,Reliance Jio (TS2),NA,15.0,On-Campus
+B.Tech,Mining Engineering,7.44,Sprinklr,Business Analyst,18.0,On-Campus
+B.Tech,Mining Engineering,8.0,Sprinklr,Business Analyst,18.0,On-Campus
+B.Tech,Mining Engineering,7.52,Tata Steel,Management Trainee Technical,10.52,PPO
+B.Tech,Mining Engineering,8.26,Tata Steel,Management Trainee Technical,10.52,PPO
+B.Tech,Mining Engineering,8.65,Tata Steel,Management Trainee Technical,10.52,PPO
+B.Tech,Mining Engineering,6.32,Tata Steel Long Product Ltd,NA,4.5,On-Campus
+B.Tech,Mining Engineering,8.01,Testbook,Software Engineer,14.0,On-Campus
+B.Tech,Mining Engineering,7.3,Tiger analytics,NA,10.0,On-Campus
+B.Tech,Mining Engineering,6.18,Vedanta Ltd,NA,9.0,On-Campus
+B.Tech,Mining Engineering,6.41,Vedanta Ltd,NA,9.0,On-Campus
+B.Tech,Mining Engineering,6.5,Vedanta Ltd,NA,9.0,On-Campus
+B.Tech,Mining Engineering,6.53,Vedanta Ltd,NA,9.0,On-Campus
+B.Tech,Mining Engineering,6.68,Vedanta Ltd,NA,9.0,On-Campus
+B.Tech,Mining Engineering,6.89,Vedanta Ltd,NA,9.0,On-Campus
+B.Tech,Mining Engineering,7.05,Vedanta Ltd,NA,9.0,On-Campus
+B.Tech,Mining Engineering,7.07,Vedanta Ltd,NA,9.0,On-Campus
+B.Tech,Mining Engineering,7.31,Vedanta Ltd,NA,9.0,On-Campus
+B.Tech,Mining Engineering,7.33,Vedanta Ltd,NA,9.0,On-Campus
+B.Tech,Mining Engineering,7.92,Vedanta Ltd,NA,9.0,On-Campus
+B.Tech,Mining Engineering,7.94,Vedanta Ltd,NA,9.0,On-Campus
+B.Tech,Mining Engineering,8.11,Walmart,NA,29.0,On-Campus
+B.Tech,Mining Engineering,8.47,Walmart,NA,37.0,On-Campus
+B.Tech,Mining Engineering,7.06,ZS Associates,Analyst,12.85,PPO
+B.Tech,Mining Engineering,8.04,ZS Associates,Analyst,18.25,On-Campus
+B.Tech,Mining Engineering,8.51,ZS Associates,Analyst,18.25,On-Campus
+B.Tech,Mining Machinery Engineering,7.53,Addverb,NA,14.33,On-Campus
+B.Tech,Mining Machinery Engineering,7.5,Axxela Advisory,NA,11.5,On-Campus
+B.Tech,Mining Machinery Engineering,7.23,Cubation Consulting,NA,7.66,On-Campus
+B.Tech,Mining Machinery Engineering,8.29,Cubation Consulting,NA,7.66,On-Campus
+B.Tech,Mining Machinery Engineering,9.37,Cubation Consulting,NA,7.66,On-Campus
+B.Tech,Mining Machinery Engineering,6.99,DarwinBox,Business Analyst,8.45,On-Campus
+B.Tech,Mining Machinery Engineering,7.88,Future First,NA,12.4,On-Campus
+B.Tech,Mining Machinery Engineering,7.86,I'm Beside You,Software Engineer,36.0,PPO
+B.Tech,Mining Machinery Engineering,7.92,ICICI Bank,NA,16.0,On-Campus
+B.Tech,Mining Machinery Engineering,7.32,Latent Analytics,Analyst,6.5,On-Campus
+B.Tech,Mining Machinery Engineering,6.99,MediBuddy,Software Engineer,15.0,On-Campus
+B.Tech,Mining Machinery Engineering,7.95,Meesho,NA,37.0,On-Campus
+B.Tech,Mining Machinery Engineering,7.6,Merilytics,Senior Technical Associate,9.5,On-Campus
+B.Tech,Mining Machinery Engineering,7.68,Merilytics,Business Analyst,9.5,On-Campus
+B.Tech,Mining Machinery Engineering,7.85,Merilytics,Business Analyst,9.5,On-Campus
+B.Tech,Mining Machinery Engineering,9.1,Microsoft India,NA,45.03,PPO
+B.Tech,Mining Machinery Engineering,7.35,Nineleaps,Data Engineers,12.0,On-Campus
+B.Tech,Mining Machinery Engineering,7.32,PhonePe,NA,30.5,On-Campus
+B.Tech,Mining Machinery Engineering,8.32,PwC,Other,8.0,PPO
+B.Tech,Mining Machinery Engineering,9.05,PwC,Other,8.0,PPO
+B.Tech,Mining Machinery Engineering,9.35,PwC,Other,8.0,PPO
+B.Tech,Mining Machinery Engineering,9.2,Razorpay,NA,31.0,On-Campus
+B.Tech,Mining Machinery Engineering,9.06,Sprinklr,Business Analyst,18.0,On-Campus
+B.Tech,Mining Machinery Engineering,7.7,Standard Chartered,NA,17.22,On-Campus
+B.Tech,Mining Machinery Engineering,6.84,Terex,Graduate Engineer Trainee,7.5,On-Campus
+B.Tech,Mining Machinery Engineering,6.59,Testbook,Associate Program Manager,11.0,On-Campus
+B.Tech,Mining Machinery Engineering,7.95,Testbook,Analyst,11.0,On-Campus
+B.Tech,Mining Machinery Engineering,8.22,Toppr,NA,21.0,On-Campus
+B.Tech,Mining Machinery Engineering,6.81,Vedanta Ltd,Graduate Engineer Trainee,11.5,On-Campus
+B.Tech,Mining Machinery Engineering,6.89,Vedanta Ltd,Graduate Engineer Trainee,11.5,On-Campus
+B.Tech,Mining Machinery Engineering,6.92,Vedanta Ltd,Graduate Engineer Trainee,11.5,On-Campus
+B.Tech,Mining Machinery Engineering,7.21,Vedanta Ltd,Graduate Engineer Trainee,11.5,On-Campus
+B.Tech,Mining Machinery Engineering,6.49,Wipro Limited,Engineer,6.5,On-Campus
+B.Tech,Petroleum Engineering,7.93,Adobe,Software Engineer,14.85,PPO
+B.Tech,Petroleum Engineering,6.09,Axxela Advisory,NA,11.5,On-Campus
+B.Tech,Petroleum Engineering,7.76,Axxela Advisory,NA,11.5,On-Campus
+B.Tech,Petroleum Engineering,7.25,Cairn Oil &Gas,NA,20.2,On-Campus
+B.Tech,Petroleum Engineering,7.27,Cairn Oil &Gas,NA,20.2,On-Campus
+B.Tech,Petroleum Engineering,7.32,Cairn Oil &Gas,NA,20.2,On-Campus
+B.Tech,Petroleum Engineering,7.78,Cairn Oil &Gas,NA,20.2,On-Campus
+B.Tech,Petroleum Engineering,7.87,Cairn Oil &Gas,NA,20.2,On-Campus
+B.Tech,Petroleum Engineering,7.99,Cairn Oil &Gas,Graduate Engineer Trainee,14.95,PPO
+B.Tech,Petroleum Engineering,8.12,Cairn Oil &Gas,Graduate Engineer Trainee,14.95,PPO
+B.Tech,Petroleum Engineering,8.47,Cairn Oil &Gas,NA,20.2,On-Campus
+B.Tech,Petroleum Engineering,8.53,Cairn Oil &Gas,Graduate Engineer Trainee,14.95,PPO
+B.Tech,Petroleum Engineering,8.59,Cairn Oil &Gas,NA,20.2,On-Campus
+B.Tech,Petroleum Engineering,8.64,Cairn Oil &Gas,Graduate Engineer Trainee,14.95,PPO
+B.Tech,Petroleum Engineering,8.69,Cairn Oil &Gas,NA,20.2,On-Campus
+B.Tech,Petroleum Engineering,8.8,Cairn Oil &Gas,Graduate Engineer Trainee,14.95,PPO
+B.Tech,Petroleum Engineering,9.14,Cairn Oil &Gas,Graduate Engineer Trainee,14.95,PPO
+B.Tech,Petroleum Engineering,9.32,Cairn Oil &Gas,Graduate Engineer Trainee,14.95,PPO
+B.Tech,Petroleum Engineering,6.78,Cubation Consulting,NA,7.66,On-Campus
+B.Tech,Petroleum Engineering,6.85,Cubation Consulting,NA,7.66,On-Campus
+B.Tech,Petroleum Engineering,7.15,Cubation Consulting,NA,7.66,On-Campus
+B.Tech,Petroleum Engineering,7.3,DarwinBox,Business Analyst,8.45,On-Campus
+B.Tech,Petroleum Engineering,6.82,Essar enp,NA,8.0,On-Campus
+B.Tech,Petroleum Engineering,7.71,Essar enp,NA,8.0,On-Campus
+B.Tech,Petroleum Engineering,7.71,Essar enp,NA,8.0,On-Campus
+B.Tech,Petroleum Engineering,7.89,ExxonMobil,NA,11.41,On-Campus
+B.Tech,Petroleum Engineering,8.09,ExxonMobil,NA,11.41,On-Campus
+B.Tech,Petroleum Engineering,8.15,ExxonMobil,NA,11.41,PPO
+B.Tech,Petroleum Engineering,8.2,ExxonMobil,NA,11.41,PPO
+B.Tech,Petroleum Engineering,7.94,ICICI Bank,NA,16.0,On-Campus
+B.Tech,Petroleum Engineering,6.95,Innovaccer,NA,14.0,On-Campus
+B.Tech,Petroleum Engineering,8.38,Jubilant Pharmova Ltd,Graduate Engineer Trainee,11.0,On-Campus
+B.Tech,Petroleum Engineering,7.96,Meesho,NA,37.0,On-Campus
+B.Tech,Petroleum Engineering,8.31,Merilytics,Business Analyst,9.5,On-Campus
+B.Tech,Petroleum Engineering,6.63,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,7.18,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,7.25,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,7.36,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,7.4,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,7.59,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,7.7,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,7.74,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,7.79,ONGC,AEE (Reservior),25.0,On-Campus
+B.Tech,Petroleum Engineering,7.98,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,8.03,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,8.06,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,8.09,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,8.33,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,8.35,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,8.5,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,8.51,ONGC,AEE (Reservior),25.0,On-Campus
+B.Tech,Petroleum Engineering,7.22,Reliance Industries (E&P),Graduate Engineer Trainee,9.0,On-Campus
+B.Tech,Petroleum Engineering,7.5,Reliance Industries (E&P),Graduate Engineer Trainee,9.0,On-Campus
+B.Tech,Petroleum Engineering,7.56,Reliance Industries (E&P),Graduate Engineer Trainee,9.0,On-Campus
+B.Tech,Petroleum Engineering,7.9,Simpl Technology,NA,13.0,On-Campus
+B.Tech,Petroleum Engineering,7.27,Tiger analytics,NA,10.0,On-Campus
+B.Tech,Petroleum Engineering,7.8,Toppr,NA,21.0,On-Campus
+B.Tech,Petroleum Engineering,8.11,Unacademy,NA,20.0,On-Campus
+B.Tech,Petroleum Engineering,7.96,Meesho,NA,37.0,On-Campus
+B.Tech,Petroleum Engineering,6.63,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,7.18,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,7.25,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,7.36,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,7.4,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,7.59,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,7.7,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,7.74,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,7.79,ONGC,AEE (Reservior),25.0,On-Campus
+B.Tech,Petroleum Engineering,7.98,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,8.03,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,8.06,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,8.09,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,8.33,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,8.35,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,8.5,ONGC,Assistant Executive Engineer,25.0,On-Campus
+B.Tech,Petroleum Engineering,8.51,ONGC,AEE (Reservior),25.0,On-Campus
+B.Tech,Petroleum Engineering,7.8,Toppr,NA,21.0,On-Campus
+B.Tech,Petroleum Engineering,7.25,Cairn Oil &Gas,NA,20.2,On-Campus
+B.Tech,Petroleum Engineering,7.27,Cairn Oil &Gas,NA,20.2,On-Campus
+B.Tech,Petroleum Engineering,7.32,Cairn Oil &Gas,NA,20.2,On-Campus
+B.Tech,Petroleum Engineering,7.78,Cairn Oil &Gas,NA,20.2,On-Campus
+B.Tech,Petroleum Engineering,7.87,Cairn Oil &Gas,NA,20.2,On-Campus
+B.Tech,Petroleum Engineering,8.47,Cairn Oil &Gas,NA,20.2,On-Campus
+B.Tech,Petroleum Engineering,8.59,Cairn Oil &Gas,NA,20.2,On-Campus
+B.Tech,Petroleum Engineering,8.69,Cairn Oil &Gas,NA,20.2,On-Campus
+B.Tech,Petroleum Engineering,8.11,Unacademy,NA,20.0,On-Campus
+B.Tech,Petroleum Engineering,7.94,ICICI Bank,NA,16.0,On-Campus
+B.Tech,Petroleum Engineering,7.99,Cairn Oil &Gas,Graduate Engineer Trainee,14.95,PPO
+B.Tech,Petroleum Engineering,8.12,Cairn Oil &Gas,Graduate Engineer Trainee,14.95,PPO
+B.Tech,Petroleum Engineering,8.53,Cairn Oil &Gas,Graduate Engineer Trainee,14.95,PPO
+B.Tech,Petroleum Engineering,8.64,Cairn Oil &Gas,Graduate Engineer Trainee,14.95,PPO
+B.Tech,Petroleum Engineering,8.8,Cairn Oil &Gas,Graduate Engineer Trainee,14.95,PPO
+B.Tech,Petroleum Engineering,9.14,Cairn Oil &Gas,Graduate Engineer Trainee,14.95,PPO
+B.Tech,Petroleum Engineering,9.32,Cairn Oil &Gas,Graduate Engineer Trainee,14.95,PPO
+B.Tech,Petroleum Engineering,7.93,Adobe,Software Engineer,14.85,PPO
+B.Tech,Petroleum Engineering,6.95,Innovaccer,NA,14.0,On-Campus
+B.Tech,Petroleum Engineering,7.9,Simpl Technology,NA,13.0,On-Campus
+B.Tech,Petroleum Engineering,6.09,Axxela Advisory,NA,11.5,On-Campus
+B.Tech,Petroleum Engineering,7.76,Axxela Advisory,NA,11.5,On-Campus
+B.Tech,Petroleum Engineering,7.89,ExxonMobil,NA,11.41,On-Campus
+B.Tech,Petroleum Engineering,8.09,ExxonMobil,NA,11.41,On-Campus
+B.Tech,Petroleum Engineering,8.15,ExxonMobil,NA,11.41,PPO
+B.Tech,Petroleum Engineering,8.2,ExxonMobil,NA,11.41,PPO
+B.Tech,Petroleum Engineering,8.38,Jubilant Pharmova Ltd,Graduate Engineer Trainee,11.0,On-Campus
+B.Tech,Petroleum Engineering,7.27,Tiger analytics,NA,10.0,On-Campus
+B.Tech,Petroleum Engineering,8.31,Merilytics,Business Analyst,9.5,On-Campus
+B.Tech,Petroleum Engineering,7.22,Reliance Industries (E&P),Graduate Engineer Trainee,9.0,On-Campus
+B.Tech,Petroleum Engineering,7.5,Reliance Industries (E&P),Graduate Engineer Trainee,9.0,On-Campus
+B.Tech,Petroleum Engineering,7.56,Reliance Industries (E&P),Graduate Engineer Trainee,9.0,On-Campus
+B.Tech,Petroleum Engineering,7.3,DarwinBox,Business Analyst,8.45,On-Campus
+B.Tech,Petroleum Engineering,6.82,Essar enp,NA,8.0,On-Campus
+B.Tech,Petroleum Engineering,7.71,Essar enp,NA,8.0,On-Campus
+B.Tech,Petroleum Engineering,7.71,Essar enp,NA,8.0,On-Campus
+B.Tech,Petroleum Engineering,6.78,Cubation Consulting,NA,7.66,On-Campus
+B.Tech,Petroleum Engineering,6.85,Cubation Consulting,NA,7.66,On-Campus
+B.Tech,Petroleum Engineering,7.15,Cubation Consulting,NA,7.66,On-Campus
