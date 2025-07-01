@@ -6,6 +6,10 @@ This Streamlit web app presents an in-depth analysis of placement data gathered 
 
 ---
 
+Link to Web App : https://placement-analysis-2025-hr9bsmnjuoawrpggb9gofs.streamlit.app/
+
+---
+
 ## 🔍 Features
 
 ### ✅ Overview
